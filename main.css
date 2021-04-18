@@ -33,6 +33,11 @@ body, html {
     font-size: 1.2em;
 }
 
+#logo {
+    z-index: 999;
+}
+
+
 #header {
     display:table;
     width:100%;
