@@ -22,7 +22,7 @@ https://deborasuzuki.github.io/
 
 
 
-![capa](C:\Users\debor\OneDrive\Área de Trabalho\ProgramasJS\pag-test\images\capa.png)
+![capa](https://github.com/deborasuzuki/deborasuzuki.github.io/blob/main/images/capa.png)
 
 
 
