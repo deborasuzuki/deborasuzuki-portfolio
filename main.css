@@ -261,7 +261,7 @@ h3{padding:10px 20px 0;font-size:1.8em;font-weight:bold}
 #about p {
     padding: 50px 0 10px 0;
     text-align:left;
-    font-size:2em;
+    font-size: 1.5em;
     line-height:1.4em;
     color:#969696
 }
@@ -270,7 +270,7 @@ h3{padding:10px 20px 0;font-size:1.8em;font-weight:bold}
     padding: 0;
     margin-left: 20px;
     text-align:left;
-    font-size:1.8em;
+    font-size:1.3em;
     line-height:1.4em;
     color:#969696;
     list-style-type: square;
